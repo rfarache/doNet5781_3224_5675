@@ -10,8 +10,6 @@ namespace dotNet5781_00_3224_5675
     {
         static void Main(string[] args)
         {
-            //Raphyt
-            //chlomz
             Welcome3224();
             Welcome5675();
             Console.ReadKey();
