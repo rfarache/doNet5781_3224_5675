@@ -13,7 +13,9 @@ namespace dotNet5781_00_3224_5675
             Welcome3224();
             Welcome5675();
             Console.ReadKey();
+
         }
+
 
         static partial void Welcome5675();
 
